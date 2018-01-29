@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "test pitchyaw.data.unityweb",
+"asmCodeUrl": "test pitchyaw.asm.code.unityweb",
+"asmMemoryUrl": "test pitchyaw.asm.memory.unityweb",
+"asmFrameworkUrl": "test pitchyaw.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
