@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mab test.data.unityweb",
+"asmCodeUrl": "mab test.asm.code.unityweb",
+"asmMemoryUrl": "mab test.asm.memory.unityweb",
+"asmFrameworkUrl": "mab test.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
